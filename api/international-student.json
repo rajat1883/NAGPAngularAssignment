@@ -1,0 +1,31 @@
+[{
+    "documentId": "Domicile",
+    "documentName": "Domicile",
+    "isRequired": true
+},
+{
+    "documentId": "Birth_Certificate",
+    "documentName": "Birth Certificate",
+    "isRequired": true
+},
+{
+    "documentId": "Marksheets",
+    "documentName": "Marksheets",
+    "isRequired": true
+},
+{
+    "documentId": "Police_Clearance",
+    "documentName": "Police Clearance",
+    "isRequired": true
+},
+{
+    "documentId": "Passport",
+    "documentName": "Passport",
+    "isRequired": true
+},
+{
+    "documentId": "Declaration",
+    "documentName": "Declaration",
+    "isRequired": true
+}
+]
